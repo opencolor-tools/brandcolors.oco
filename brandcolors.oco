@@ -1,3 +1,6 @@
+oct/identityColorTop: #ff5791
+oct/identityColorSide: #f82754
+oct/identityColorBottom: #c72061
 oct/defaultView: stack
 3M:
   Color 0: #FF0000
@@ -1188,7 +1191,11 @@ ooVoo:
 Opel:
   Color 0: #f2a900
   Color 1: #8a8d8f
-
+Open Color Tools:
+  mightBeRed: #EF665F
+  subtleYellow: #D8E096
+  brokenBlue: #21BECF
+  reducedBlue: #1797A6
 Opera:
   Color 0: #cc0f16
   Color 1: #9c9e9f
