@@ -1,0 +1,2005 @@
+oct/defaultView: stack
+3M:
+  Color 0: #FF0000
+500px:
+  Color 0: #0099e5
+  Color 1: #ff4c4c
+  Color 2: #34bf49
+About-me:
+  Color 0: #00405d
+  Color 1: #062f3c
+  Color 2: #2b82ad
+  Color 3: #cc7a00
+  Color 4: #ffcc33
+Addvocate:
+  Color 0: #ff3322
+Adobe:
+  Color 0: #ff0000
+  Color 1: #fbb034
+  Color 2: #ffdd00
+  Color 3: #c1d82f
+  Color 4: #00a4e4
+  Color 5: #8a7967
+  Color 6: #6a737b
+Aetna:
+  Color 0: #d20962
+  Color 1: #f47721
+  Color 2: #7ac143
+  Color 3: #00a78e
+  Color 4: #00bce4
+  Color 5: #7d3f98
+Aim:
+  Color 0: #ffd900
+Airbnb:
+  Color 0: #fd5c63
+Alcon:
+  Color 0: #0079c1
+  Color 1: #49176d
+  Color 2: #00a0af
+  Color 3: #49a942
+
+Allianz:
+  Color 0: rgb(17,51,136)
+  Color 1: rgb(148,148,148)
+  Color 2: rgb(198,0,0)
+  Color 3: rgb(241,112,26)
+  Color 4: rgb(251,188,1)
+  Color 5: rgb(33,111,44)
+
+Alienware:
+  Color 0: #020202
+  Color 1: #2ad2c9
+  Color 2: #d0e100
+  Color 3: #00f0f0
+  Color 4: #00f000
+  Color 5: #f0e000
+  Color 6: #00a0f0
+  Color 7: #9000f0
+  Color 8: #f00000
+Alphabet:
+  Color 0: #ed1c24
+Amazon:
+  Color 0: #ff9900
+  Color 1: #146eb4
+American Express:
+  Color 0: #002663
+  Color 1: #4d4f53
+American Red Cross:
+  Color 0: #ed1b2e
+  Color 1: #6d6e70
+  Color 2: #d7d7d8
+  Color 3: #b4a996
+  Color 4: #ecb731
+  Color 5: #8ec06c
+  Color 6: #537b35
+  Color 7: #c4dff6
+  Color 8: #56a0d3
+  Color 9: #0091cd
+  Color 10: #004b79
+  Color 11: #7f181b
+  Color 12: #d7d7d8
+  Color 13: #9f9fa3
+  Color 14: #000000
+Android:
+  Color 0: #a4c639
+Angie’s List:
+  Color 0: #7fbb00
+AngularJS:
+  Color 0: #b52e31
+  Color 1: #000000
+Answers:
+  Color 0: #136ad5
+  Color 1: #fb8a2e
+AOL:
+  Color 0: #ff0b00
+  Color 1: #00c4ff
+Aral:
+  Aral Blue: rgb(0, 85, 199)
+  Orange: rgb(255,126,0)
+  Green: rgb(204,255,0)
+  Yellow: rgb(255,228, 0)
+  Violet: rgb(148,0,100)
+Arch Linux:
+  Color 0: #1793d1
+  Color 1: #333333
+ARD:
+  Color 0: rgb(0, 26, 75)
+  Color 1: rgb(0, 44, 107)
+  Color 2: rgb(35,95,160)
+  Color 3: rgb(75,135,190)
+  Color 4: rgb(140,185,230)
+  Color 5: rgb(190,220,250)
+  Color 6: rgb(255,255,255)
+  Color 7: rgb(211,199,164)
+Asana:
+  Color 0: #1f8dd6
+  Color 1: #34ad00
+Associated Press:
+  Color 0: #ff322e
+AT&T:
+  Color 0: #ff7200
+  Color 1: #fcb314
+  Color 2: #067ab4
+  Color 3: #3aa5dc
+Atlanta Falcons:
+  Color 0: #000000
+  Color 1: #a71930
+  Color 2: #a5acaf
+Atlantic Coast Conference (ACC):
+  Color 0: #013ca6
+  Color 1: #a5a9ab
+Atlassian:
+  Color 0: #003366
+Audi:
+  Audi Red (lighter): #CC0033
+  Audi Red (darker): #AA142D
+  White: #FFFFFF
+  Black: #000000
+  Pale Grey: #D5D9D8
+  Light Grey: #B0B6B8
+  Medium Grey: #6D7579
+  Dark Grey: #434C53
+Auth0:
+  Color 0: #16214d
+  Color 1: #44c7f4
+  Color 2: #eb5424
+  Color 3: #d0d2d3
+Baidu:
+  Color 0: #de0f17
+  Color 1: #2529d8
+Bandcamp:
+  Color 0: #629aa9
+Barclays:
+  Color 0: #145FAC
+  Color 1: #437EA0
+  Color 2: #00AEEF
+  Color 3: #FFFFFF
+  Color 4: #FFA000
+Barnes & Noble:
+  Color 0: #2a5934
+Bayer:
+  Color 0: #1590C6
+  Color 1: #6BC300
+  Color 2: #676767
+  Color 3: #A8A6A7
+  Color 4: #FFFFFF
+BBC:
+  Color 0: #BF2E1A
+  Color 1: #FFFFFF
+Bebo:
+  Color 0: #e04646
+Behance:
+  Color 0: #1769ff
+Bell:
+  Bell Blue: #0066a4
+  Black: #212121
+Bertelsmann:
+  BeAG blue: #101c4b
+  BeAG orange: #da5800
+Best Buy:
+  Color 0: #003b64
+  Color 1: #fff200
+Big Cartel:
+  Color 0: #a0ac48
+  Color 1: #70b29c
+Bing:
+  Color 0: #ffb900
+  Color 1: #505050
+  Color 2: #a3a3a3
+Bitbucket:
+  Color 0: #205081
+bitly:
+  Color 0: #ee6123
+  Color 1: #61b3de
+Blackberry:
+  Color 0: #005387
+  Color 1: #8cb811
+  Color 2: #fdb813
+  Color 3: #88aca1
+  Color 4: #000000
+  Color 5: #788cb6
+  Color 6: #a1a1a4
+  Color 7: #8f8f8c
+Blogger:
+  Color 0: #f57d00
+BMW:
+  Color 0: #111010
+  Color 1: #2E9BDA
+  Color 2: #F5F6FC
+Boeing:
+  Color 0: #0033a1
+Bombardier:
+  Color 0: #8996a0
+Booking-com:
+  Color 0: #003580
+Bosch:
+  Bosch Blue: rgb(0,58,106)
+  Bosch Red: rgb(226,0,21)
+  Bosch Gray: rgb(128,130,133)
+  Bosch Light Gray: rgb(241,241,241)
+  Bosch Light Blue: rgb(110, 176, 213)
+  Bosch Red Brown: rgb(189,70,71)
+  Bosch Yellow Green: rgb(192,172,0)
+  Bosch Eye-Catches Yellow: rgb(251,243,33)
+Bower:
+  Color 0: #ffcc2f
+  Color 1: #ef5734
+  Color 2: #00acee
+  Color 3: #2baf2b
+  Color 4: #543729
+  Color 5: #cecece
+Boy Scouts of America:
+  Color 0: #ce1126
+  Color 1: #003f87
+BP:
+  Color 0: #09933D
+  Color 1: #ADBE20
+  Color 2: #FFF52A
+  Color 3: #FFFEFF
+British Airways:
+  Color 0: #075aaa
+  Color 1: #eb2226
+  Color 2: #01295c
+  Color 3: #efe9e5
+  Color 4: #aca095
+  Color 5: #b9cfed
+  Color 6: #a7a9ac
+BT:
+  Color 0: #d52685
+  Color 1: #553a99
+  Color 2: #6cbc35
+  Color 3: #fd9f3e
+  Color 4: #08538c
+Buffer:
+  Color 0: #168eea
+  Color 1: #ee4f4f
+  Color 2: #fff9ea
+  Color 3: #76b852
+  Color 4: #323b43
+  Color 5: #59626a
+  Color 6: #ced7df
+  Color 7: #eff3f6
+  Color 8: #f4f7f9
+Burger King:
+  Color 0: #ec1c24
+  Color 1: #fdbd10
+  Color 2: #0066b2
+  Color 3: #ed7902
+Bynder:
+  Color 0: #1ca0de
+  Color 1: #343a4e
+Cadbury:
+  Cadbury Purple: #482683
+  White: #FFFFFF
+  Black Graduations: #000000
+Canon:
+  Color 0: #bc0024
+  Color 1: #000000
+Carbonmade:
+  Color 0: #613854
+Carrefour:
+  Color 0: #00387b
+  Color 1: #bb1e10
+  Color 2: #f67828
+  Color 3: #237f52
+Cartoon Network:
+  Color 0: #00aeef
+  Color 1: #ed008c
+  Color 2: #fff000
+  Color 3: #000000
+Case-Mate:
+  Color 0: #84754e
+  Color 1: #a6192e
+  Color 2: #decba5
+  Color 3: #000000
+Caterpillar:
+  Color 0: #000000
+  Color 1: #FFCF1D
+  Color 2: #B2B2B2
+Change-org:
+  Color 0: #ec2c22
+  Color 1: #ffc907
+  Color 2: #2e9df7
+  Color 3: #231f20
+Cheddar:
+  Color 0: #ff7243
+Coca-Cola:
+  Color 0: #ed1c16
+Code School:
+  Color 0: #616f67
+  Color 1: #c68143
+Codecademy:
+  Color 0: #f65a5b
+  Color 1: #204056
+Connexxion:
+  Color 0: #d2ea32
+  Color 1: #016773
+Continental:
+  Continental-Gelb: #FFa500
+  Continental-Schwarz: #000000
+  Continental-Weiß: #FFFFFF
+  Continental-Grau 1: #737373
+  Continental-Grau 2: #969696
+  Continental-Grau 3: #cdcdcd
+  Continental-Grau 4: #f0f0f0
+Courtyard:
+  Color 0: #689550
+  Color 1: #85c446
+  Color 2: #c0de9e
+  Color 3: #b9dca4
+Craft CMS:
+  Color 0: #da5a47
+Creative Market:
+  Color 0: #8ba753
+Crowne Plaza:
+  Color 0: #830051
+  Color 1: #cf0072
+  Color 2: #d9e506
+  Color 3: #ff7900
+  Color 4: #00c6d7
+  Color 5: #766a65
+CrunchBase:
+  Color 0: #2292a7
+Culver’s:
+  Color 0: #005696
+Cunard:
+  Color 0: #1d1d1b
+  Color 1: #ae9a64
+  Color 2: #e42313
+  Color 3: #8b8c8d
+Daimler:
+  Light Grey: #e6e6e6
+  Petrol: #00677f
+  Deep Red: #71180C
+  Color 0: #263f6a
+  Color 1: #182b45
+  Color 2: #6b0f24
+  Color 3: #193725
+  Color 4: #606061
+Delectable:
+  Color 0: #334858
+  Color 1: #cd595a
+  Color 2: #94938f
+  Color 3: #a3a7a6
+  Color 4: #dbc5b0
+  Color 5: #f8dfc2
+  Color 6: #f9ebdf
+Delicious:
+  Color 0: #3399ff
+  Color 1: #222222
+  Color 2: #eeeeee
+Dell:
+  Color 0: #0085c3
+  Color 1: #7ab800
+  Color 2: #f2af00
+  Color 3: #dc5034
+  Color 4: #ce1126
+  Color 5: #b7295a
+  Color 6: #6e2585
+  Color 7: #71c6c1
+  Color 8: #5482ab
+  Color 9: #009bbb
+  Color 10: #444444
+  Color 11: #eeeeee
+Dental Plans:
+  Color 0: #f99104
+  Color 1: #00b7c9
+Designer News:
+  Color 0: #2d72d9
+Designmoo:
+  Color 0: #e64b50
+  Color 1: #dbc65d
+Deutsche Bahn:
+  Color 0: #da291c
+  Color 1: #000000
+  Color 2: #FFFFFF
+Deutsche Bank:
+  DeuBa Blue: #003399
+  Color 0: #4E277E
+  Color 1: #850043
+  Color 2: #C22F16
+  Color 3: #FF0000
+  Color 4: #F9B100
+  Color 5: #ABAA00
+  Color 6: #546F11
+  Color 7: #0068AE
+  Color 8: #009EE0
+  Color 9: #6D9FBD
+  Color 10: #C5C7C8
+Deutsche Post:
+  Color 0: #ffcd00
+  Color 1: #000000
+Deutsches Rotes Kreuz:
+  Color 0: #E60005
+  Color 1: #FFFFFF
+  Color 2: #000000
+Deutsche Telekom:
+  Color 0: #e10098
+  Color 1: #FFFFFF
+  Color 2: #9b9ea0
+DeviantArt:
+  Color 0: #05cc47
+  Color 1: #4dc47d
+  Color 2: #181a1b
+Devour:
+  Color 0: #ff0000
+DEWALT:
+  Color 0: #febd17
+DHL:
+  Color 0: #ba0c2f
+  Color 1: #ffcd00
+  Color 2: #c9c9c9
+Diebold:
+  Color 0: #007dc3
+  Color 1: #003f69
+  Color 2: #954010
+  Color 3: #445c6e
+  Color 4: #005238
+  Color 5: #97824b
+Digg:
+  Color 0: #000000
+Digital Ocean:
+  Color 0: #008bcf
+Direct Energy:
+  Color 0: #f05d21
+  Color 1: #2c5770
+  Color 2: #0f723a
+  Color 3: #c7c8ca
+  Color 4: #666666
+DIRECTV:
+  Color 0: #00a6d6
+  Color 1: #00629b
+  Color 2: #003865
+DISH Network:
+  Color 0: #ec1944
+Disqus:
+  Color 0: #2e9fff
+Django:
+  Color 0: #092e20
+DLRG:
+  Gelb: #FFDB00
+  Rot: #FF2129
+  Blau: #006699
+Docker:
+  Color 0: #0db7ed
+  Color 1: #384d54
+Domino’s:
+  Color 0: #0b648f
+  Color 1: #e21737
+DOW:
+  Color 0: #e80033
+  Color 1: #fdbb30
+  Color 2: #ed8b00
+  Color 3: #f15d22
+  Color 4: #bf0d3e
+  Color 5: #910048
+  Color 6: #d0006f
+Dribbble:
+  Color 0: #444444
+  Color 1: #ea4c89
+  Color 2: #8aba56
+  Color 3: #ff8833
+  Color 4: #00b6e3
+  Color 5: #9ba5a8
+Dropbox:
+  Color 0: #007ee5
+  Color 1: #7b8994
+  Color 2: #47525d
+  Color 3: #3d464d
+Droplr:
+  Color 0: #5654a4
+Drupal:
+  Color 0: #0077c0
+  Color 1: #81ceff
+  Color 2: #00598e
+Dunked:
+  Color 0: #2da9d7
+  Color 1: #212a3e
+E*TRADE:
+  Color 0: #6633cc
+  Color 1: #99cc00
+Easy Jet:
+  Color 0: #ff6600
+  Color 1: #000000
+  Color 2: #58595b
+eBay:
+  Color 0: #e53238
+  Color 1: #0064d2
+  Color 2: #f5af02
+  Color 3: #86b817
+El Al:
+  Color 0: #131137
+  Color 1: #918978
+Elance:
+  Color 0: #0d69af
+Ello:
+  Color 0: #000000
+Ember:
+  Color 0: #f23819
+Engadget:
+  Color 0: #40b3ff
+Envato:
+  Color 0: #82b541
+Epictions:
+  Color 0: #ff2052
+  Color 1: #e6e6e6
+  Color 2: #404040
+  Color 3: #01b5dd
+  Color 4: #b0db64
+Ericsson:
+  Color 0: #002561
+ESL:
+  Color 0: #0d9ddb
+  Color 1: #48b8e7
+  Color 2: #efecea
+  Color 3: #2c2b2b
+ESPN:
+  Color 0: #ff0033
+Etsy:
+  Color 0: #d5641c
+Evaneos:
+  Color 0: #33cc99
+  Color 1: #4ba6f5
+  Color 2: #fdca30
+  Color 3: #f79400
+  Color 4: #f34235
+Evernote:
+  Color 0: #7ac142
+  Color 1: #808084
+Fab-com:
+  Color 0: #dd0017
+  Color 1: #000000
+Facebook:
+  Color 0: #3b5998
+Fairfield Inn & Suites:
+  Color 0: #6caddf
+  Color 1: #b06010
+  Color 2: #004990
+  Color 3: #b50938
+Fairmont:
+  Color 0: #a6a685
+  Color 1: #000000
+
+FairTrade:
+  Grass: rgb(162, 201, 0)
+  Sky: rgb(1,151,208)
+
+famo-us:
+  Color 0: #fa5c4f
+  Color 1: #333333
+Fancy:
+  Color 0: #3098dc
+  Color 1: #494e58
+
+Farber Castell:
+  Color 0: #032E27
+  Color 1: #FAF7ED
+
+Fedex:
+  Color 0: #660099
+  Color 1: #ff6600
+  Color 2: #00cc00
+  Color 3: #0099cc
+  Color 4: #ff0033
+  Color 5: #ffcc00
+  Color 6: #999999
+Feedly:
+  Color 0: #2bb24c
+
+Fiat:
+  Ruby Red: #96172e
+  Dark Red: #6d2d41
+Firefox:
+  Color 0: #e66000
+  Color 1: #ff9500
+  Color 2: #ffcb00
+  Color 3: #00539f
+  Color 4: #0095dd
+  Color 5: #331e54
+  Color 6: #002147
+Fitbit:
+  Color 0: #4cc2c4
+  Color 1: #f54785
+  Color 2: #343434
+Five Guys:
+  Color 0: #ed174f
+  Color 1: #fbb040
+  Color 2: #efc402
+  Color 3: #d4891c
+Flattr:
+  Color 0: #f67c1a
+  Color 1: #338d11
+Flavors-me:
+  Color 0: #f10087
+  Color 1: #009ae7
+Flickr:
+  Color 0: #0063dc
+  Color 1: #ff0084
+Flipboard:
+  Color 0: #e12828
+Flixster:
+  Color 0: #2971b2
+Follr:
+  Color 0: #4dc9f6
+  Color 1: #f67019
+  Color 2: #f53794
+  Color 3: #537bc4
+  Color 4: #acc236
+Ford:
+  Color 0: #1c396d
+Format:
+  Color 0: #ee3440
+Forrst:
+  Color 0: #5b9a68
+Foursquare:
+  Color 0: #f94877
+  Color 1: #0732a2
+  Color 2: #2d5be3
+Friend2Friend:
+  Color 0: #0f99d6
+
+GAP:
+  Color 0: #002A5F
+
+Garmin:
+  Color 0: #007cc3
+Garuda:
+  Color 0: #484848
+  Color 1: #002561
+  Color 2: #2f6f7e
+
+Gazprom:
+  Color 0: #0079C1
+
+GE:
+  Color 0: #FEFEFE
+  Color 1: #4173BA
+
+Geocaching:
+  Color 0: #4a742c
+Ghost:
+  Color 0: #212425
+  Color 1: #718087
+  Color 2: #5ba4e5
+  Color 3: #9fbb58
+  Color 4: #e9e8dd
+Gibson:
+  Color 0: #000000
+  Color 1: #436f8e
+  Color 2: #887d59
+  Color 3: #8f9696
+Gillette:
+  Color 0: #031A46
+
+Gimmebar:
+  Color 0: #d6156c
+GitHub:
+  Color 0: #4183c4
+  Color 1: #999999
+  Color 2: #666666
+  Color 3: #333333
+  Color 4: #6cc644
+  Color 5: #bd2c00
+  Color 6: #ff9933
+Gittip:
+  Color 0: #663300
+  Color 1: #339966
+GoDaddy:
+  Color 0: #7db701
+  Color 1: #ff8a00
+Goodreads:
+  Color 0: #553b08
+Google:
+  Color 0: #4285f4
+  Color 1: #34a853
+  Color 2: #fbbc05
+  Color 3: #ea4335
+Google+:
+  Color 0: #dc4e41
+Gravatar:
+  Color 0: #1e8cbe
+Gravit:
+  Color 0: #e30061
+  Color 1: #d5df00
+  Color 2: #475258
+Groupon:
+  Color 0: #82b548
+Grunt:
+  Color 0: #fba919
+  Color 1: #463014
+Hacker News:
+  Color 0: #ff6600
+happn:
+  Color 0: #0087b4
+
+Harley Davidson:
+  Color 0: #B86A2A
+  Color 1: #010000
+  Color 2: #F1F5F8
+
+Heineken:
+  Color 0: #00a100
+  Color 1: #ff2b00
+  Color 2: #999999
+
+Heinz:
+  Heinz Red: rgb(216, 30, 5)
+  Heinz Grey: rgb(153, 137,124)
+  Pickle Green: rgb(0,135,81)
+  Black: rgb(0,0,0)
+
+HelloWallet:
+  Color 0: #0093d0
+Heroku:
+  Color 0: #c9c3e6
+  Color 1: #6762a6
+hi5:
+  Color 0: #fd9827
+Highfive:
+  Color 0: #a26eea
+  Color 1: #f7afff
+  Color 2: #5d70ea
+  Color 3: #46b7fd
+
+H&M:
+  Color 0: #DB0C16
+
+Home Depot:
+  Color 0: #f96305
+HomeAway:
+  Color 0: #2a6ebb
+  Color 1: #ff8a00
+HootSuite:
+  Color 0: #003265
+  Color 1: #f7e8d5
+  Color 2: #ffbd0a
+  Color 3: #c6af92
+  Color 4: #71685f
+  Color 5: #54493f
+  Color 6: #38322d
+Houzz:
+  Color 0: #7ac142
+  Color 1: #000000
+HP:
+  Color 0: #0096d6
+  Color 1: #d7410b
+HSBC:
+  Color 0: #db0011
+HTML5:
+  Color 0: #e34f26
+Hulu:
+  Color 0: #a5cd39
+  Color 1: #6bb03e
+Hyatt:
+  Color 0: #6d6e71
+  Color 1: #bf5b20
+  Color 2: #006e96
+  Color 3: #8c8700
+  Color 4: #ad5f7d
+  Color 5: #d79100
+IBM:
+  Color 0: #006699
+iDEAL:
+  Color 0: #cc0066
+  Color 1: #79afc1
+  Color 2: #000000
+Identi-ca:
+  Color 0: #789240
+  Color 1: #7d0100
+  Color 2: #8baaff
+IFTTT:
+  Color 0: #33ccff
+  Color 1: #ff4400
+  Color 2: #000000
+iHeartRadio:
+  Color 0: #c6002b
+IKEA:
+  Color 0: #ffcc00
+  Color 1: #003399
+IMDb:
+  Color 0: #f5de50
+Imgur:
+  Color 0: #85bf25
+Indiegogo:
+  Color 0: #eb1478
+Instacart:
+  Color 0: #60ab59
+Instagram:
+  Color 0: #3f729b
+Instapaper:
+  Color 0: #000000
+  Color 1: #428bca
+Intel:
+  Color 0: #0f7dc2
+Intuit:
+  Color 0: #365ebf
+iOS:
+  Color 0: #5fc9f8
+  Color 1: #fecb2e
+  Color 2: #fd9426
+  Color 3: #fc3158
+  Color 4: #147efb
+  Color 5: #53d769
+  Color 6: #fc3d39
+  Color 7: #8e8e93
+iStock:
+  Color 0: #fe423f
+  Color 1: #02a388
+  Color 2: #0c0d0d
+  Color 3: #e8eded
+  Color 4: #dce1e1
+Jawbone:
+  Color 0: #000000
+Joyent:
+  Color 0: #ff6600
+jQuery:
+  Color 0: #0769ad
+  Color 1: #7acef4
+Keeeb:
+  Color 0: #00a9c0
+
+Kellog’s:
+  Red: #b51946
+  White: #FFFFFF
+
+Khan Academy:
+  Color 0: #9cb443
+  Color 1: #242f3a
+Kia:
+  Color 0: #c21a30
+Kickstarter:
+  Color 0: #2bde73
+  Color 1: #0f2105
+kik:
+  Color 0: #82bc23
+  Color 1: #3db4e7
+kippt:
+  Color 0: #d51007
+KITKAT:
+  Color 0: #d70021
+Kiwipay:
+  Color 0: #00b0df
+KLM:
+  Color 0: #00a1e4
+
+Koch Industries:
+ Color 0: #0099D8
+ Color 1: #000000
+
+Kodak:
+  Color 0: #FCB503
+  Color 1: #D5041A
+
+Kraft:
+  Color 0: #321953
+  Color 1: #D10000
+  Color 2: #F0F1EC
+
+KFC:
+  Color 0: #C81332
+  Color 1: #FFFCFF
+  Color 2: #FFEDDC
+  Color 3: #1B1612
+
+Laravel:
+  Color 0: #f55247
+LastFM:
+  Color 0: #d51007
+
+LEGO:
+  Color 0: #F20D0F
+  Color 1: #FAED00
+  Color 2: #000000
+  Color 3: #FFFFFF
+
+Leica:
+  Color 0: #000000
+  Color 1: #E20613
+  Color 2: #FFFFFF
+
+LG:
+  Color 0: #FFFFFF
+  Color 1: #C3023B
+  Color 2: #858681
+
+LINE:
+  Color 0: #00c300
+LinkedIn:
+  Color 0: #0077b5
+  Color 1: #000000
+  Color 2: #313335
+  Color 3: #86888a
+  Color 4: #caccce
+  Color 5: #00a0dc
+  Color 6: #8d6cab
+  Color 7: #dd5143
+  Color 8: #e68523
+
+Lipton:
+  Color 0: #FEE101
+  Color 1: #60B43B
+  Color 2: #2F6205
+  Color 3: #EC1D25
+  Color 4: #FEC909
+
+Livestream:
+  Color 0: #cf202e
+  Color 1: #232121
+  Color 2: #f78822
+  Color 3: #f6db35
+  Color 4: #6dc067
+  Color 5: #4185be
+  Color 6: #8f499c
+Lloyd’s:
+  Color 0: #d81f2a
+  Color 1: #ff9900
+  Color 2: #e0d86e
+  Color 3: #9ea900
+  Color 4: #6ec9e0
+  Color 5: #007ea3
+  Color 6: #9e4770
+  Color 7: #631d76
+  Color 8: #1e1e1e
+LOMO:
+  Color 0: #eb0028
+  Color 1: #00a0df
+
+Lufthansa:
+   Color 0: #001F52
+   Color 1: #F49E26
+   Color 2: #9B9B9B
+   Color 3: #DCDCDC
+   Color 4: #B1B1B1
+
+Lumo:
+  Color 0: #576396
+Lyft:
+  Color 0: #ea0b8c
+  Color 1: #333d47
+  Color 2: #faa43d
+  Color 3: #2da9e1
+
+Maggi:
+  Color 0: #FCF22C
+  Color 1: #FC3A1C
+
+Mail-Ru:
+  Color 0: #168de2
+  Color 1: #ffa930
+MailChimp:
+  Color 0: #2c9ab7
+  Color 1: #449a88
+  Color 2: #febe12
+  Color 3: #db3a1b
+  Color 4: #373737
+
+Malteser Hilfsdienst:
+  Malteser Rot: #F73429
+  Schwarz: #000000
+
+Mapbox:
+  Color 0: #3bb2d0
+  Color 1: #3887be
+  Color 2: #8a8acb
+  Color 3: #56b881
+  Color 4: #50667f
+  Color 5: #41afa5
+  Color 6: #f9886c
+  Color 7: #e55e5e
+  Color 8: #ed6498
+  Color 9: #fbb03b
+  Color 10: #142736
+  Color 11: #28353d
+  Color 12: #222b30
+Massy Group:
+  Color 0: #004a77
+  Color 1: #00adee
+  Color 2: #ff8100
+  Color 3: #ffd200
+Mastercard:
+  Color 0: #cc0000
+  Color 1: #ff9900
+  Color 2: #000066
+McDonald’s:
+  Color 0: #bf0c0c
+  Color 1: #e76a05
+  Color 2: #ffc600
+  Color 3: #47bc00
+  Color 4: #05007b
+  Color 5: #9748a8
+  Color 6: #2bb3f3
+  Color 7: #865200
+Meetup:
+  Color 0: #e0393e
+Meijer:
+  Color 0: #0a4d8c
+  Color 1: #dd1321
+MercadoLibre-com:
+  Color 0: #ffe600
+  Color 1: #2d3277
+Mercedes-Benz:
+  Grey: #676d75
+  Midnightblue: #003366
+  Black: #000000
+  White: #FFFFFF
+
+Microsoft:
+  Color 0: #f65314
+  Color 1: #7cbb00
+  Color 2: #00a1f1
+  Color 3: #ffbb00
+Microsoft Band:
+  Color 0: #783bd2
+Microsoft Office:
+  Color 0: #ea3e23
+
+Miele:
+  Color 0: #E60500
+  Color 1: #FFFFFF
+
+MINI:
+  Color 0: #FFFFFF
+  Color 1: #666767
+  Color 2: #FFFD04
+  Color 3: #7EFC06
+  Color 4: #1798FF
+  Color 5: #CD1799
+  Color 6: #FC6700
+
+Mitsubishi:
+  Color 0: #EE1828
+  Color 1: #B5BEBD
+  Color 2: #211C22
+
+Mixpanel:
+  Color 0: #a086d3
+Mollie:
+  Color 0: #c6d6df
+  Color 1: #ec4534
+Motorola:
+  Color 0: #5c92fa
+Mozilla:
+  Color 0: #c13832
+  Color 1: #d7d3c8
+  Color 2: #4d4e53
+
+Muji:
+  Color 0: #7F0019
+  Color 1: #CCCCCC
+  Color 2: #666666
+  Color 3: #FAF7EB
+  Color 4: #999999
+  Color 5: #333333
+
+Muut:
+  Color 0: #1fadc5
+  Color 1: #ff8000
+MySpace:
+  Color 0: #000000
+
+NASA:
+  NASA RED: rgb(252,61,33)
+  NASA BLUE: rgb(11,61,145)
+  NASA GREY: rgb(121,121,124)
+  NASA BLACK: rgb(0,0,0)
+
+Nationwide:
+  Color 0: #0071bf
+  Color 1: #000000
+NBC:
+  Color 0: #e1ac26
+  Color 1: #dc380f
+  Color 2: #9f0812
+  Color 3: #6347b2
+  Color 4: #368dd5
+  Color 5: #70af1e
+  Color 6: #7e887a
+NC State University:
+  Color 0: #cc0000
+  Color 1: #000000
+Nest:
+  Color 0: #00afd8
+  Color 1: #7b858e
+Netflix:
+  Color 0: #e50914
+  Color 1: #221f1f
+  Color 2: #f5f5f1
+Netvibes:
+  Color 0: #39bd00
+New Balance:
+  Color 0: #ce2724
+  Color 1: #f3ec19
+  Color 2: #207c88
+  Color 3: #aac1bf
+  Color 4: #e8e9d7
+  Color 5: #4c4d4f
+  Color 6: #231f20
+New York Post:
+  Color 0: #cc3333
+  Color 1: #2a2a2a
+Nextdoor:
+  Color 0: #19975d
+Nike Football:
+  Color 0: #504847
+  Color 1: #27a770
+NikeFuel:
+  Color 0: #4bad31
+  Color 1: #f5dc00
+  Color 2: #e95814
+  Color 3: #e2142d
+Ning:
+  Color 0: #75af42
+
+Nintendo:
+  Color 0: #FDFDFD
+  Color 1: #B42F32
+
+Nivea:
+  Color 0: #00136f
+  Color 1: #03158b
+  Color 2: #5a4282
+  Color 3: #c0d1ee
+  Color 4: #eeeeee
+
+Nokia:
+  Color 0: #124191
+Novartis:
+  Color 0: #765438
+  Color 1: #a13323
+  Color 2: #e65124
+  Color 3: #ec7f22
+  Color 4: #f8b22a
+  Color 5: #ffd430
+npm:
+  Color 0: #cb3837
+
+npower:
+  npower red: rgb(237,24,73)
+  RWE blue: rgb(0,105,170)
+
+NS:
+  Color 0: #ffc61e
+  Color 1: #00337f
+NVIDIA:
+  Color 0: #76b900
+Odnoklassniki:
+  Color 0: #ed812b
+Office Sway:
+  Color 0: #008272
+Olark:
+  Color 0: #8d989a
+  Color 1: #744da8
+  Color 2: #1fb3e0
+  Color 3: #49c219
+  Color 4: #f4dc2a
+  Color 5: #eeb417
+  Color 6: #d65129
+Olympus:
+  Color 0: #08107b
+  Color 1: #dfb226
+  Color 2: #777777
+Onshape:
+  Color 0: #1b5faa
+  Color 1: #90cef1
+  Color 2: #ffc20e
+ooVoo:
+  Color 0: #eeaf00
+
+Opel:
+  Color 0: #f2a900
+  Color 1: #8a8d8f
+
+Opera:
+  Color 0: #cc0f16
+  Color 1: #9c9e9f
+Oracle:
+  Color 0: #ff0000
+  Color 1: #000000
+  Color 2: #7f7f7f
+
+Orange:
+  Color 0: #FB6501
+
+OREO:
+  Color 0: #94CBED
+  Color 1: #1E469B
+  Color 2: #FFFFFF
+
+Otto Group:
+  Color 0: #E40500
+
+Oxford University Press:
+  Color 0: #002147
+  Color 1: #000000
+  Color 2: #666666
+Panasonic:
+  Color 0: #0f58a8
+  Color 1: #000000
+Pandora:
+  Color 0: #005483
+Path:
+  Color 0: #ee3423
+Patreon:
+  Color 0: #e6461a
+PAYMILL:
+  Color 0: #f05000
+PayPal:
+  Color 0: #003087
+  Color 1: #009cde
+  Color 2: #012169
+Pearson:
+  Color 0: #ed6b06
+  Color 1: #9d1348
+  Color 2: #008b5d
+  Color 3: #364395
+Penguin Books:
+  Color 0: #ff6900
+Pepsi:
+  Color 0: #e32934
+  Color 1: #004883
+Pfizer:
+  Color 0: #0093d0
+  Color 1: #000000
+  Color 2: #616365
+  Color 3: #00aeef
+  Color 4: #d6006e
+  Color 5: #75d1e0
+  Color 6: #7dba00
+  Color 7: #cc292b
+  Color 8: #00a950
+  Color 9: #f8971d
+  Color 10: #f7d417
+  Color 11: #4a245e
+  Color 12: #f26649
+Philips:
+  Color 0: #0e5fd8
+Photobucket:
+  Color 0: #0ea0db
+  Color 1: #000000
+PHP:
+  Color 0: #8892be
+  Color 1: #4f5b93
+  Color 2: #99cc99
+Pinboard:
+  Color 0: #0000e6
+Pinterest:
+  Color 0: #bd081c
+Pizza Hut:
+  Color 0: #ee3124
+  Color 1: #00a160
+  Color 2: #ffc425
+Plasso:
+  Color 0: #6585ed
+  Color 1: #f5756c
+  Color 2: #98afc0
+  Color 3: #2f3148
+Plaxo:
+  Color 0: #414f5a
+
+Playmobil:
+ Color 0: #00ADEF
+ Color 1: #0075BD
+
+PlayStation:
+  Color 0: #003087
+Pocket:
+  Color 0: #ef4056
+  Color 1: #50bcb6
+
+Porsche:
+  Color 0: #CB8B34
+  Color 1: #82241A
+  Color 2: #2C3135
+
+Portfolium:
+  Color 0: #0099ff
+  Color 1: #fb0a2a
+  Color 2: #17ad49
+  Color 3: #333333
+Postmates:
+  Color 0: #000000
+  Color 1: #36454f
+Prezi:
+  Color 0: #318bff
+Priceline:
+  Color 0: #1885bf
+Product Hunt:
+  Color 0: #da552f
+  Color 1: #534540
+  Color 2: #988f8c
+  Color 3: #00b27f
+
+Puma:
+  Color 0: #E30919
+  Color 1: #000000
+  Color 2: #FFFFFF
+
+Qantas Airways:
+  Color 0: #e0001b
+QuizUp:
+  Color 0: #ff5454
+Quora:
+  Color 0: #a82400
+QUOTE-fm:
+  Color 0: #66ceff
+
+Ray-Ban:
+  Color 0: #ED1D24
+  Color 1: #FFFFFF
+
+Razer:
+  Color 0: #00ff00
+Rdio:
+  Color 0: #007dc3
+React:
+  Color 0: #00d8ff
+Readability:
+  Color 0: #990000
+Red Hat:
+  Color 0: #cc0000
+Reddit:
+  Color 0: #ff4500
+  Color 1: #5f99cf
+  Color 2: #cee3f8
+Redfin:
+  Color 0: #a02021
+Renaissance Hotels:
+  Color 0: #000000
+  Color 1: #999999
+  Color 2: #ffffff
+  Color 3: #f58021
+Rentler:
+  Color 0: #ed1c27
+Residence Inn:
+  Color 0: #b32317
+  Color 1: #f58025
+  Color 2: #3a6e8f
+  Color 3: #87b2d8
+  Color 4: #8d8b00
+  Color 5: #c1d72f
+ReverbNation:
+  Color 0: #e43526
+
+Ritter Sport:
+  Color 0: #000392
+  Color 1: #BE9229
+
+Rockpack:
+  Color 0: #0ba6ab
+Roku:
+  Color 0: #6f1ab1
+
+Rolex:
+  Color 0: #265C26
+  Color 1: #A2803E
+
+Rolls-Royce:
+  Color 0: #680021
+  Color 1: #fffaec
+  Color 2: #939598
+  Color 3: #000000
+Roo Kids:
+  Color 0: #e22027
+  Color 1: #a1cd3d
+  Color 2: #003e70
+Roon:
+  Color 0: #62b0d9
+
+Rosneft:
+  Color 0: #B29759
+  Color 1: #000000
+
+Rounds:
+  Color 0: #fdd800
+RSS:
+  Color 0: #f26522
+Ruby:
+  Color 0: #cc342d
+RWE:
+  RWE blue: rgb(0,105,170)
+
+Sainsbury’s:
+  Color 0: #ec8a00
+Salesforce:
+  Color 0: #1798c1
+  Color 1: #ff1100
+Samsung:
+  Color 0: #1428a0
+  Color 1: #75787b
+  Color 2: #0689d8
+  Color 3: #ffc600
+  Color 4: #ff6900
+  Color 5: #e4002b
+  Color 6: #c800a1
+  Color 7: #685bc7
+  Color 8: #0057b8
+  Color 9: #00a9e0
+  Color 10: #009ca6
+  Color 11: #00b140
+SAP:
+  Color 0: #003366
+  Color 1: #999999
+  Color 2: #009DE0
+
+Scribd:
+  Color 0: #1a7bba
+Shazam:
+  Color 0: #0088ff
+  Color 1: #ffaa00
+  Color 2: #ff7700
+  Color 3: #ff0033
+  Color 4: #9911aa
+  Color 5: #cc2288
+  Color 6: #aadd22
+  Color 7: #242424
+  Color 8: #646464
+  Color 9: #949494
+  Color 10: #e4e4e4
+  Color 11: #f4f4f4
+Sherwin-Williams:
+  Color 0: #0168b3
+  Color 1: #ee3e34
+Shopify:
+  Color 0: #96bf48
+  Color 1: #479ccf
+  Color 2: #2d3538
+  Color 3: #f5f5f5
+  Color 4: #f2f7fa
+  Color 5: #666666
+
+Siemens:
+  Petrol: #009999
+  Snow: #FFFFFF
+  Stone: #879BAA
+  Stone 2: #BECDD7
+  Sand: #AAAA96
+  Sand 2: #D7D7CD
+  Natural Yellow Dark: #EB780A
+  Natural Yellow Light: #FFB900
+  Natural Red Dark: #641946
+  Natural Red Light: #AF235F
+  Natural Blue Dark: #006487
+  Natural Blue Light: #55A0B9
+  Natural Green Dark: #647D2D
+  Natural Green Light: #AAB414
+  Natural Grey Dark: #0F1923
+  Natural Grey Light: #505A64
+
+Skype:
+  Color 0: #00aff0
+Slack:
+  Color 0: #6ecadc
+  Color 1: #e9a820
+  Color 2: #e01563
+  Color 3: #3eb991
+SlideShare:
+  Color 0: #0077b5
+Smashing Magazine:
+  Color 0: #e53b2c
+  Color 1: #41b7d8
+Snagajob:
+  Color 0: #f47a20
+SocialBro:
+  Color 0: #29c4d0
+  Color 1: #f29556
+  Color 2: #84afa2
+  Color 3: #72c427
+  Color 4: #f24c7c
+  Color 5: #00aaf2
+Softonic:
+  Color 0: #008ace
+Songkick:
+  Color 0: #f80046
+Sonicbids:
+  Color 0: #ff6600
+  Color 1: #0c88b1
+
+Sony:
+  Sony black: #000000
+  smoke: #7c8285
+  stainless: #bfbdb0
+  guacamole: #b1b134
+  parrot: #bbd634
+  green tea: #dbe3b6
+  moss: #b2cbbd
+  slate: #165b65
+  midnight: #679d99
+  bluebell: #96bbdb
+  ocean: #00a4e8
+  robin’s egg: #a4dbdb
+  tweety: #fdd666
+  cheeto: #dc9018
+  tomato: #e31A22
+  pumpkin: #DF8f2d
+  sangia: #b24f3f
+  crimson: #b51f29
+  salmon: #f5826B
+  bubblegum: #f4979C
+
+SoundCloud:
+  Color 0: #ff8800
+  Color 1: #ff3300
+Spoken:
+  Color 0: #fc00c1
+  Color 1: #000000
+Spotify:
+  Color 0: #2ebd59
+Sprint:
+  Color 0: #ffe100
+Square Cash:
+  Color 0: #28c101
+Squarespace:
+  Color 0: #222222
+StackOverflow:
+  Color 0: #fe7a15
+Staples:
+  Color 0: #cc0000
+  Color 1: #2c8aec
+  Color 2: #ffcc00
+Starbucks:
+  Color 0: #00704a
+Status Chart:
+  Color 0: #d7584f
+Sterling Hotels:
+  Color 0: #3b5a6f
+  Color 1: #828a87
+  Color 2: #000000
+  Color 3: #9db7c4
+  Color 4: #ccd7dd
+  Color 5: #838f97
+  Color 6: #002054
+Storyful:
+  Color 0: #f97200
+  Color 1: #010101
+  Color 2: #8b8b64
+  Color 3: #bbbdc0
+Strava:
+  Color 0: #fc4c02
+Streamable:
+  Color 0: #0f90fa
+Stripe:
+  Color 0: #00afe1
+StubHub:
+  Color 0: #004b91
+  Color 1: #ff7300
+StudyBlue:
+  Color 0: #00afe1
+StumbleUpon:
+  Color 0: #eb4924
+Subway:
+  Color 0: #489e3b
+  Color 1: #fabd42
+  Color 2: #cd0a20
+SugarCRM:
+  Color 0: #e61718
+  Color 1: #e8e9ea
+  Color 2: #595a5c
+  Color 3: #282828
+Swarm:
+  Color 0: #f06d1f
+  Color 1: #ffa633
+
+Swiss Air:
+  Color 0: #E11A27
+  Color 1: #FFFFFF
+  Color 2: #000000
+
+T-Mobile:
+  Color 0: #e20074
+Tagstr:
+  Color 0: #e74635
+Technorati:
+  Color 0: #339900
+TED:
+  Color 0: #e62b1e
+Telegram:
+  Color 0: #0088cc
+Tesco:
+  Color 0: #ee1c2e
+  Color 1: #00539f
+Tesla:
+  Color 0: #cc0000
+
+Tetra Pak:
+  Tetra Pak Blue: #000099
+  Tetra Pak Red: #FF0000
+
+The Audience Awards:
+  Color 0: #ee8421
+  Color 1: #8c8a8a
+  Color 2: #222222
+The Next Web:
+  Color 0: #ff3c1f
+  Color 1: #26313b
+  Color 2: #4e5860
+  Color 3: #a6abaf
+  Color 4: #d9e0e2
+  Color 5: #fafbfc
+The Ritz-Carlton:
+  Color 0: #006b95
+  Color 1: #4f5b65
+  Color 2: #b3812a
+  Color 3: #a01a1f
+The Sun:
+  Color 0: #ed1c24
+  Color 1: #b90c13
+The Sun Goals:
+  Color 0: #00745e
+  Color 1: #086556
+The Sun Perks:
+  Color 0: #8560a8
+  Color 1: #431c69
+The Times:
+  Color 0: #000000
+Thomson Reuters:
+  Color 0: #ff8000
+  Color 1: #555555
+  Color 2: #444444
+  Color 3: #666666
+  Color 4: #cccccc
+  Color 5: #e9e9e9
+  Color 6: #f7f7f7
+
+Thyssenkrupp:
+  Color 0: #00a0f0
+  Color 1: #d8dde4
+  Color 2: #FFFFFF
+
+TiVo:
+  Color 0: #da3d34
+  Color 1: #00a480
+  Color 2: #ed9f40
+  Color 3: #6a76ac
+  Color 4: #17170e
+  Color 5: #534b38
+  Color 6: #a6a480
+
+Toyota:
+  Color 0: #D81E05
+
+Treehouse:
+  Color 0: #6fbc6d
+  Color 1: #47535b
+Trello:
+  Color 0: #0079bf
+  Color 1: #70b500
+  Color 2: #ff9f1a
+  Color 3: #eb5a46
+  Color 4: #f2d600
+  Color 5: #c377e0
+  Color 6: #ff78cb
+  Color 7: #00c2e0
+  Color 8: #51e898
+  Color 9: #c4c9cc
+TripAdvisor:
+  Color 0: #589442
+Trulia:
+  Color 0: #5eab1f
+
+TUI:
+  TUI-Red: rgb(239,0,0)
+  TUI-Light Blue: rgb(220,240,255)
+  TUI-Cream: rgb(255,250,210)
+  TUI-Rose: rgb(235,205,220)
+  TUI-Olive Green: rgb(175,180,120)
+  TUI-Khaki: rgb(200,200,180)
+  TUI-Mint: rgb(195, 225, 190)
+  TUI-Blue: rgb(102,153,255)
+  TUI-Yellow: rgb(255,240,0)
+  TUI-Orange: rgb(255,136,0)
+  TUI-Green: rgb(190,230,0)
+  TUI-Sand: rgb(230, 220, 185)
+  TUI-Turquoise: rgb(100,210,215)
+  TUI-Dark Blue: rgb(9,42,94)
+  TUI-Gold: rgb(185,180,100)
+  TUI-Bordeaux: rgb(100,0,25)
+  TUI-Dark Green: rgb(1,59,43)
+  TUI-Brown: rgb(61,26,14)
+  TUI-Petrol: rgb(0,45,65)
+
+Tumblr:
+  Color 0: #35465c
+Tunngle:
+  Color 0: #c30f24
+TurboTax:
+  Color 0: #355ebe
+  Color 1: #d52b1d
+tvtag:
+  Color 0: #f24e4e
+Twitch-tv:
+  Color 0: #6441a5
+Twitter:
+  Color 0: #55acee
+Typekit:
+  Color 0: #98ce1e
+Typepad:
+  Color 0: #d2de61
+TYPO3:
+  Color 0: #ff8700
+Uber:
+  Color 0: #09091a
+  Color 1: #c0c0c8
+  Color 2: #1fbad6
+Ubuntu:
+  Color 0: #dd4814
+  Color 1: #77216f
+  Color 2: #5e2750
+  Color 3: #2c001e
+  Color 4: #aea79f
+  Color 5: #333333
+UC Berkeley:
+  Color 0: #003262
+  Color 1: #3b7ea1
+  Color 2: #fdb515
+  Color 3: #c4820e
+UCSF:
+  Color 0: #052049
+  Color 1: #18a3ac
+  Color 2: #90bd31
+  Color 3: #178ccb
+  Color 4: #f48024
+Unilever:
+  Color 0: #0F7DBB
+
+United Way:
+  Color 0: #10167f
+  Color 1: #fe230a
+  Color 2: #ff9600
+  Color 3: #000064
+  Color 4: #b41428
+  Color 5: #f57814
+  Color 6: #e6d7aa
+  Color 7: #505050
+  Color 8: #f0e6c8
+  Color 9: #969696
+  Color 10: #7c81b8
+  Color 11: #ff967d
+  Color 12: #ffc87d
+Unity:
+  Color 0: #222c37
+  Color 1: #00cccc
+  Color 2: #fff600
+  Color 3: #ff0066
+  Color 4: #19e3b1
+  Color 5: #ff7f33
+  Color 6: #b83c82
+University of Arizona:
+  Color 0: #cc0033
+  Color 1: #003366
+University of Oregon:
+  Color 0: #fce122
+  Color 1: #18453b
+Univision:
+  Color 0: #c822b0
+
+UPS:
+  Color 0: #321300
+  Color 1: #ECA91C
+
+Ustream:
+  Color 0: #3388ff
+Verizon:
+  Color 0: #ff0000
+  Color 1: #f2f2f2
+  Color 2: #3285dc
+Viadeo:
+  Color 0: #f07355
+Viki:
+  Color 0: #3c9cd7
+  Color 1: #d24663
+Vimeo:
+  Color 0: #162221
+  Color 1: #1ab7ea
+Vine:
+  Color 0: #00b488
+Virb:
+  Color 0: #1e91d0
+Virgin America:
+  Main Red: #DC232E
+  Dark Grey: #262A2D
+  Light Grey: #EBEBEB
+  Main Purple: #62269E
+  Main Silver: #D4D4D4
+  Main Gold: #DFAD58
+  Dark Purple: #55266C
+  Main Pink: #B70D8A
+  Color 06: #B9F031
+  Color 05: #1EC522
+  Color 24: #4DFDD1
+  Color 21: #26DCFC
+  Color 20: #188BFA
+  Color 18: #FB3735
+  Color 17: #FB4AB3
+  Color 15: #FB2735
+  Color 14: #0F7866
+  Color 07: #F1601E
+  Color 09: #FFFF01
+  Color 30: #DEDEDE
+
+Virgin Media:
+  Color 0: #c3092d
+  Color 1: #222221
+
+Visa:
+  Color 0: #0E0E4E
+  Color 1: #142B95
+
+VisualCV:
+  Color 0: #31577a
+Visually:
+  Color 0: #14acf2
+  Color 1: #f04494
+  Color 2: #0ac578
+VKontakte:
+  Color 0: #45668e
+Vodafone:
+  Color 0: #e60000
+  Color 1: #4a4d4e
+  Color 2: #9c2aa0
+  Color 3: #5e2750
+  Color 4: #00b0ca
+  Color 5: #007c92
+  Color 6: #a8b400
+  Color 7: #fecb00
+  Color 8: #eb9800
+  Color 9: #000000
+
+Volkswagen:
+  Volkswagen Blau: #0033CC
+  Volkswagen Chrom: #CCCCCC
+
+Volvo:
+  Color 0: #003057
+  Color 1: #115740
+  Color 2: #65665c
+  Color 3: #425563
+  Color 4: #517891
+  Color 5: #212721
+Walgreens:
+  Color 0: #e31837
+  Color 1: #f37520
+  Color 2: #489cd4
+  Color 3: #2774a6
+  Color 4: #35393d
+Walmart:
+  Color 0: #007dc6
+  Color 1: #79b9e7
+  Color 2: #f47421
+  Color 3: #76c143
+  Color 4: #ffc120
+  Color 5: #e7f0f7
+  Color 6: #f2f8fd
+  Color 7: #222222
+  Color 8: #444444
+Warby Parker:
+  Color 0: #414b56
+  Color 1: #00a2e1
+Wave Apps:
+  Color 0: #1c2d37
+  Color 1: #4ec7c4
+  Color 2: #00959f
+  Color 3: #3b9bcc
+WeChat:
+  Color 0: #7bb32e
+Wendy’s:
+  Color 0: #e2203d
+  Color 1: #199fda
+Western Digital:
+  Color 0: #005195
+  Color 1: #028948
+  Color 2: #ffd400
+  Color 3: #0067b3
+  Color 4: #9d0a0e
+  Color 5: #003369
+WhatsApp:
+  Color 0: #43d854
+Whoosnap:
+  Color 0: #2fa5d6
+  Color 1: #b52f2c
+Windows:
+  Color 0: #00bcf2
+Windows Phone:
+  Color 0: #68217a
+Wooga:
+  Color 0: #5b009c
+WordPress:
+  Color 0: #21759b
+  Color 1: #d54e21
+  Color 2: #464646
+WordPress-com:
+  Color 0: #0087be
+  Color 1: #78dcfa
+  Color 2: #00aadc
+  Color 3: #005082
+  Color 4: #87a6bc
+  Color 5: #f3f6f8
+  Color 6: #e9eff3
+  Color 7: #e9eff3
+  Color 8: #a8bece
+  Color 9: #668eaa
+  Color 10: #4f748e
+  Color 11: #3d596d
+  Color 12: #2e4453
+  Color 13: #d54e21
+  Color 14: #f0821e
+  Color 15: #4ab866
+  Color 16: #f0b849
+  Color 17: #d94f4f
+World Organisation of the Scout Movement:
+  Color 0: #622599
+  Color 1: #0054a0
+  Color 2: #aaba0a
+  Color 3: #dd7500
+  Color 4: #e23d28
+  Color 5: #3d8e33
+  Color 6: #3399ff
+  Color 7: #ff3399
+  Color 8: #fcd116
+  Color 9: #999999
+Worldline:
+  Color 0: #0066a1
+Wufoo:
+  Color 0: #e66760
+  Color 1: #8c88cd
+  Color 2: #69c5e4
+  Color 3: #ffdf8b
+  Color 4: #61e064
+Wunderlist:
+  Color 0: #2b96f1
+
+WWF:
+  Color 0: #CC6600
+  Color 1: #6699FF
+  Color 2: #CC9900
+  Color 3: #999966
+  Color 4: #565A5C
+
+XBOX:
+  Color 0: #52b043
+XING:
+  Color 0: #026466
+  Color 1: #cfdc00
+XY Gaming:
+  Color 0: #3299cc
+  Color 1: #333333
+Yahoo!:
+  Color 0: #410093
+Yandex:
+  Color 0: #ffcc00
+Yelp:
+  Color 0: #af0606
+Yo:
+  Color 0: #9b59b6
+  Color 1: #e74c3c
+  Color 2: #8e44ad
+  Color 3: #2980b9
+  Color 4: #f1c40f
+  Color 5: #16a085
+  Color 6: #34495e
+  Color 7: #3498db
+  Color 8: #2ecc71
+  Color 9: #1abc9c
+YouTube:
+  Color 0: #cd201f
+Zapier:
+  Color 0: #ff4a00
+  Color 1: #fd7622
+  Color 2: #ffc43e
+  Color 3: #5f6c72
+  Color 4: #499df3
+  Color 5: #13d0ab
+ZDF:
+  ZDF-Orange: #fa7d19
+  Cool Grey: rgb(177,177,177)
+Zeiss:
+  no_name: #141E8C
+Zendesk:
+  Color 0: #78a300
+  Color 1: #f1f1f1
+  Color 2: #444444
+Zerply:
+  Color 0: #9dbc7a
+Zillow:
+  Color 0: #1277e1
+Zopim:
+  Color 0: #ff9d3b
